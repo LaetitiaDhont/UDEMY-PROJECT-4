@@ -1,3 +1,10 @@
-.hero {
-	border: solid;
+.middle {
+	background: linear-gradient(-45deg,#ec5252,#6e1a52);
+  	display: flex;
+  	justify-content: space-around;
+}
+
+.logo {
+	width: 25px;
+	height: 25px;
 }
